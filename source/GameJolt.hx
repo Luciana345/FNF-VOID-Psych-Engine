@@ -74,6 +74,7 @@ import flixel.ui.FlxButton;
 import flixel.text.FlxText;
 import flixel.FlxSubState;
 import flixel.addons.ui.FlxUIInputText;
+import flixel.addons.transition.FlxTransitionableState;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.util.FlxColor;
 import lime.system.System;
