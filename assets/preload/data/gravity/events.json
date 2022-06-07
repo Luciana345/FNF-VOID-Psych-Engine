@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "darkSpace",
+		"player1": "bf",
+		"player2": "mad-void",
+		"player3": null,
+		"events": [
+			[
+				157038.461538461,
+				[
+					[
+						"Change Character",
+						"1",
+						"hurt-void"
+					]
+				]
+			],
+			[
+				157153.846153846,
+				[
+					[
+						"Play Animation",
+						"flinch",
+						"Dad"
+					]
+				]
+			],
+			[
+				168923.076923077,
+				[
+					[
+						"Play Animation",
+						"snap",
+						"Dad"
+					]
+				]
+			],
+			[
+				169730.769230769,
+				[
+					[
+						"Change Character",
+						"1",
+						"crazed-dark"
+					]
+				]
+			],
+			[
+				195692.307692308,
+				[
+					[
+						"Change Character",
+						"1",
+						"crazed-void"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Gravity"
+	}
+}

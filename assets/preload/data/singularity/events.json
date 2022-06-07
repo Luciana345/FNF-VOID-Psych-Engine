@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "oblivion",
+		"player1": "bf",
+		"player2": "ac-void",
+		"player3": null,
+		"events": [
+			[
+				175200,
+				[
+					[
+						"Change Character",
+						"1",
+						"extraAnim"
+					]
+				]
+			],
+			[
+				204000,
+				[
+					[
+						"Change Character",
+						"1",
+						"stun"
+					]
+				]
+			],
+			[
+				207000,
+				[
+					[
+						"Change Character",
+						"1",
+						"ac-void"
+					]
+				]
+			],
+			[
+				220275,
+				[
+					[
+						"Change Character",
+						"1",
+						"dead"
+					]
+				]
+			],
+			[
+				220575,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "dark",
+		"needsVoices": true,
+		"song": "Singularity"
+	}
+}

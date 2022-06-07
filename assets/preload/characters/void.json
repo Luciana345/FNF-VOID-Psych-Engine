@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Void Idle"
+		},
+		{
+			"offsets": [
+				-200,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [
+				-100,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [
+				-180,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Void Up Note Chill"
+		},
+		{
+			"offsets": [
+				-130,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Void Up Note Hype"
+		},
+		{
+			"offsets": [
+				-300,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Void Right Note Hype"
+		},
+		{
+			"offsets": [
+				-60,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Void Left Note Hype"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Void Down Note Hype"
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "intro",
+			"loop": false,
+			"name": "Void Intro"
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "wink",
+			"loop": false,
+			"name": "Void Wink"
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pose",
+			"loop": false,
+			"name": "Void Pose0"
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "poseWink",
+			"loop": false,
+			"name": "Void PoseW"
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "seeThe",
+			"loop": false,
+			"name": "Void See"
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "confused",
+			"loop": false,
+			"name": "Void Con"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/void_assets",
+	"position": [
+		-360,
+		0
+	],
+	"healthicon": "void",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

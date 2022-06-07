@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "space",
+		"player1": "bf",
+		"player2": "void",
+		"player3": null,
+		"events": [
+			[
+				2250,
+				[
+					[
+						"Play Animation",
+						"seeThe",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Event Horizon"
+	}
+}

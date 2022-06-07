@@ -1,0 +1,50 @@
+{
+	"storyName": "A supermassive Encore",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ultraviolet",
+			"void",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Gravity",
+			"madvoid",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Singularity",
+			"acvoid",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"acvoid",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Void Week 2"
+}
